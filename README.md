@@ -31,7 +31,7 @@ git push  # 将文件推送到远程仓库
 
 **仅上传论文 PDF 时将 PDF 以 "Year+Title+Author" 的格式命名，可以使用 EndNote 进行重命名格式设置，如下图：**
 
-![image-20220912162232880](/Users/zaizai/Library/Application Support/typora-user-images/image-20220912162232880.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/99bde635216a404983fbd9e963821ae6.png)
 
 **上传论文 PDF 和汇报 PPT（或笔记）时请将 PPT（或笔记）与 PDF 同名，方便日后管理和查阅**
 
