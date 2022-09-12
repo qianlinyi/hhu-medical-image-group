@@ -1,13 +1,15 @@
 # hhu-medical-image-group
 河海大学计信院黄倩老师——医疗图像组公共数据库
 
-这里只给出几个简单的 Git 指令，详细指令可参照：
-
-[Git 学习笔记](https://github.com/qianlinyi/notes/blob/main/%E5%BC%80%E5%8F%91/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-
 **注意！本仓库仅存放论文、汇报 PPT 以及笔记，Github 对文件和仓库有严格的大小限制，仓库大小理想情况小于 1 GB，文件大小严格小于 100 MB，所以请勿上传数据集或其他大文件！**
 
 **上传前请仔细阅读 README 文件！有任何不明白的地方可以先问 @qianlinyi，不要自己乱传影响版本控制！**
+
+## Git 版本控制
+
+这里只给出几个简单的 Git 指令，详细指令可参照：
+
+[Git 学习笔记](https://github.com/qianlinyi/notes/blob/main/%E5%BC%80%E5%8F%91/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
 ```bash
 # 克隆项目
@@ -24,4 +26,14 @@ git commit -m "message"  # 将文件添加到本地仓库
 # message 请严格遵循"日期 姓名 备注信息"的格式！可以参照仓库的提交记录，方便日后管理
 git push  # 将文件推送到远程仓库
 ```
+
+## 文件上传要求
+
+**仅上传论文 PDF 时将 PDF 以 "Year+Title+Author" 的格式命名，可以使用 EndNote 进行重命名格式设置，如下图：**
+
+![image-20220912162232880](/Users/zaizai/Library/Application Support/typora-user-images/image-20220912162232880.png)
+
+**上传论文 PDF 和汇报 PPT（或笔记）时请将 PPT（或笔记）与 PDF 同名，方便日后管理和查阅**
+
+
 
