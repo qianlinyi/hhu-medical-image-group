@@ -145,6 +145,12 @@ Mol Divers
 
 [_IFAC Journal of Systems &amp; Control_](http://communications.elsevier.com/r/?id=h4f9b33ea,24e03d8d,24f79334)
 
+| 期刊名                                            | 分级  | 介绍                                               |
+| ------------------------------------------------- | ----- | -------------------------------------------------- |
+| IEEE transactions on Medical Imaging              | CCF-B | 医学图像处理领域最受大家认可的期刊                 |
+| Medical Image Analysis                            | CCF-C | 老牌医学图像处理期刊，偏重于医学领域内的知识多一些 |
+| IEEE Journal of Biomedical and Health Informatics | CCF-C |                                                    |
+
 # 会议
 
 医学图像领域的相关：（小硕主要关注的是会议）
