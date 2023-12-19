@@ -3,12 +3,15 @@
 
 河海大学计算机与信息学院——黄倩老师医疗图像组公共数据库，主要分为三大方向：分类、分割和检测，包括组员看过的论文和笔记，以及医学图像相关的期刊和会议整理等。
 
-Contact Email: 327120052@qq.com
-
+Contact Email: qianlinyi@hhu.edu.cn
 
 **注意！本仓库仅存放论文、汇报 PPT 以及笔记，Github 对文件和仓库有严格的大小限制，仓库大小理想情况小于 1 GB，文件大小严格小于 100 MB，所以请勿上传数据集或其他大文件！**
 
 **上传前请仔细阅读 README 文件！有任何不明白的地方可以先问 @qianlinyi，不要自己乱传影响版本控制！**
+
+## 成果 🎉🎉🎉
+
+**A Purified Stacking Ensemble Framework for Cytology Classification (CCF-C)**
 
 ## Git 版本控制
 
