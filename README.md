@@ -11,7 +11,7 @@ Contact Email: qianlinyi@hhu.edu.cn
 
 ## 成果 🎉🎉🎉
 
-**A Purified Stacking Ensemble Framework for Cytology Classification (CCF-C)**
+[**A Purified Stacking Ensemble Framework for Cytology Classification (CCF-C)**](https://link.springer.com/chapter/10.1007/978-3-031-53308-2_20)
 
 ## Git 版本控制
 
